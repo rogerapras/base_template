@@ -1,0 +1,34 @@
+.content-header {
+	background-color: white !important;
+	padding: inherit;
+}
+
+.content-header h1 {
+	padding: 15px;
+}
+
+.content-header .breadcrumb {
+    background-color: #fcfcfc;
+    padding: 15px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    float: inherit;
+    position: initial;
+}
+
+.box {
+	 border: 1px solid #ccc;
+	 box-shadow: initial;
+}
+
+.main-header .navbar {
+    background-color: #384452 !important;
+}
+
+.main-header .logo {
+    background-color: #384452 !important;
+}
+
+.main-header li.user-header {
+    background-color: #37474F !important;
+}
